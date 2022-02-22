@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  <img align="center" alt="Sabrina-pic" height="150" style="border-radius:50px;" src="https://im7.ezgif.com/tmp/ezgif-7-639b630a75.gif"><br>
+  <img align="center" alt="Sabrina-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/SrX1aNP.gif"><br>
 
   
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabrinamartins2/)](https://www.linkedin.com/in/sabrinamartins2/)
