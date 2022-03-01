@@ -1,6 +1,4 @@
-<h3 align="center">
-  Hello, I'm Sabrina 👋
-  </h3>
+<h3 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sabrina</h3>
 
 <p align="center"> 🌱 I'm graduated in graphic design and I'm currently studying to become a Dev Fullstack. </p>
 
